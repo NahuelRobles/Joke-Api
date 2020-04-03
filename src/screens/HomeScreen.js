@@ -50,8 +50,8 @@ const styles = StyleSheet.create({
         height:'100%',
     },
     box: {
-        //borderColor:'red',
-        //borderWidth: 5,
+        ///borderColor:'red',
+        ///borderWidth: 5,
         height: '50%'
     },
     backgroundBoxUp: {
